@@ -1,4 +1,4 @@
-%global         with_python3 1
+%global         with_python3 0
 
 Summary:        A powerful declarative parser/builder for binary data
 Name:           python-construct
